@@ -28,18 +28,15 @@
 
 ## 珠海十亿人社区农业科技有限公司 （ 2013年7月 ~ 2014年8月 ）
 
-### 十亿人蔬果网移动端站点 
-URL：http://w.syr.hk/
+### 十亿人蔬果网移动端站点  http://w.syr.hk/
 我在此项目负责整个站点的前后台前端，这个项目中，我最困难的问题是刚接触jQuery Mobile，即便如此，最后还是完成了整个项目的前端工作。
 
 
-### 量子高科（中国）生物股份有限公司旗下品牌阿力果项目 
-URL：http://w.oligo.cc/
+### 量子高科（中国）生物股份有限公司旗下品牌阿力果项目  http://w.oligo.cc/
 我在此项目负责了站点的前端，主要使用jQuery Mobile，根据客户的要求定制了不同的界面。
 
 
-### 珠海市卡索服饰有限公司之第八届连衣裙节 
-URL：http://lyq.castle-cn.com/Home.aspx
+### 珠海市卡索服饰有限公司之第八届连衣裙节  http://lyq.castle-cn.com/Home.aspx
 我在此项目负责了站点的前端，主要使用jQuery/Bootstrap/LESS/CSS3/HTML5语义化。
 
 
@@ -54,7 +51,6 @@ URL：http://lyq.castle-cn.com/Home.aspx
 - 前端框架：Bootstrap/HTML5/jQuery/AngularJS
 - 前端工具：Gulp/Stylus
 - 数据库相关：SQL Server/MySQL
-- 版本管理、文档和自动化部署工具：Git
 - 云和开放平台：BAE/Windows Azure
 
 
