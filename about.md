@@ -15,7 +15,6 @@
  - 工作年限：1年
  - 技术博客：http://www.heyzh.com
  - Github: http://github.com/pcar
-
  - 期望职位：Web前端程序员
  - 期望薪资：税后月薪5k~6k，特别喜欢的公司可例外
  - 期望城市：珠三角
